@@ -1,4 +1,4 @@
-# Bu proje  NodeJs, Express, MongoDb, jsonwebtoken , bcryptjs , cors , dotenv kullanılarak oluşturulmuş İleri seviye bir API projesidir.
+# Bu proje  NodeJs, Express, MongoDb, jsonwebtoken , bcryptjs , cors , dotenv kullanılarak oluşturulmuş  bir REST API projesidir.
 
  Kayıt olma veya giriş yapma gibi olayların Authentication işlemleri yapılmıştır.
  
